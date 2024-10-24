@@ -7,6 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from dotenv import load_dotenv
+from getGoogleDoc import downloadGoogleDocAsHTML, getDocumentID
 from google.auth.exceptions import (  # For authentication errors
     GoogleAuthError,
     RefreshError,
@@ -15,13 +16,11 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError  # For HTTP errors
 
-from source.getGoogleDoc import downloadGoogleDocAsHTML, getDocumentID
-
-load_dotenv()
+load_dotenv(override=True)
 
 # with the OAuth 2.0 Client IDs feature, this basically helps you create a Client ID(Client = Your Application) with this ID helps your app to present itself and ask for the permission/credentials to send emails
 # secret_key = os.path.join("key", "emailSender.json")
-secret_key = os.getenv("OAUTH_2.0_CLIENT_ID")
+secret_key = os.getenv("OAUTH_CLIENT_ID")
 
 # limits the access that the client/app is asking for
 scopes = ["https://www.googleapis.com/auth/gmail.send"]
@@ -145,7 +144,9 @@ def sendEmail(
 
 
 # If you want to send content from a Google doc, you have to retrieve the html contents of it
-# docID = getDocumentID(url="(url of documentation)")
+# docID = getDocumentID(
+#     url="https://docs.google.com/document/d/1mWFUuHTYzyOozT3kA-kL0H_IP3VH1p64o4_QKwK44RI/edit?usp=sharing"
+# )
 # htmlContent = downloadGoogleDocAsHTML(docID)
 
 

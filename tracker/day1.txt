@@ -1,0 +1,338 @@
+{'Email': 'anh030807@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hà Việt Anh', 'Lớp': '10B3', 'MSHS': 'VS030807', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd75f89dbd6b2
+Emails sent: 1
+{'Email': 'anh038878@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hoàng Thị Quý Anh', 'Lớp': '9A1', 'MSHS': 'VS038878', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd7604d5c8301
+Emails sent: 2
+{'Email': 'huong055612@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Trần Bảo Hương', 'Lớp': '7A1', 'MSHS': 'VS055612', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd760f5e801b8
+Emails sent: 3
+{'Email': 'lgiang150609@gmail.com', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Hoàng Lam Giang', 'Lớp': '10B3', 'MSHS': 'VS061957', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd761c3c7d495
+Emails sent: 4
+{'Email': 'my034216@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Ngô Nguyễn Hoàng My', 'Lớp': '7A1', 'MSHS': 'VS034216', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7627c6eb07b
+Emails sent: 5
+{'Email': 'ngoc038980@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Võ Bảo Ngọc', 'Lớp': '10B3', 'MSHS': 'VS038980', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd76336b437ec
+Emails sent: 6
+{'Email': 'bang054685@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ánh Băng', 'Lớp': '7A4', 'MSHS': 'VS054685', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd763ee64722c
+Emails sent: 7
+{'Email': 'anh043392@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Võ Nguyễn Phương Anh', 'Lớp': '8A2', 'MSHS': 'VS043392', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd764844799b1
+Emails sent: 8
+{'Email': 'nguyen086497@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Bình Nguyên', 'Lớp': '7A4', 'MSHS': 'VS086497', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76558f04b62
+Emails sent: 9
+{'Email': 'nghi031253@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Bảo Nghi', 'Lớp': '10B3', 'MSHS': 'VS031253', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd76614879b44
+Emails sent: 10
+{'Email': 'linh088127@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Nhật Linh', 'Lớp': '8A7', 'MSHS': 'VS088127', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76719641490
+Emails sent: 11
+{'Email': 'tuong060509@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Thiều Ngọc Cát Tường', 'Lớp': '7A6', 'MSHS': 'VS060509', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7685b9299dd
+Emails sent: 12
+{'Email': 'tue091940@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Gia Tuệ', 'Lớp': '8A7', 'MSHS': 'VS091940', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd768f30a1583
+Emails sent: 13
+{'Email': 'giang091035@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lương Quỳnh Giang', 'Lớp': '8A2', 'MSHS': 'VS091035', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd769a8dcf77e
+Emails sent: 14
+{'Email': 'linh043981@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Nguyễn Bảo Linh', 'Lớp': '9B1', 'MSHS': 'VS043981', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd76a7126ac8f
+Emails sent: 15
+{'Email': 'chau113991@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguuyễn Triệu Châu', 'Lớp': '7A8', 'MSHS': 'VS113991', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76b1e2983b2
+Emails sent: 16
+{'Email': 'thu061856@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Trần Nhật Thư', 'Lớp': '9A1', 'MSHS': 'VS061856', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}       
+Email sent successfully! Message ID: 192bd76ba901393c
+Emails sent: 17
+{'Email': 'ngan037754@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Kim Ngân', 'Lớp': '8A2', 'MSHS': 'VS037754', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76c6fb34147
+Emails sent: 18
+{'Email': 'han089707@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Gia Hân', 'Lớp': '6A2', 'MSHS': 'VS089707', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76d3342e0c7
+Emails sent: 19
+{'Email': 'ngoc040004@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Khánh Ngọc', 'Lớp': '7A4', 'MSHS': 'VS040004', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76dc16ecb6a
+Emails sent: 20
+{'Email': 'han089709@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Ngọc Hân', 'Lớp': '6A2', 'MSHS': 'VS089709', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76e9eb3b358
+Emails sent: 21
+{'Email': 'yen046444@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Bảo Hoàng Yến', 'Lớp': '7A8', 'MSHS': 'VS046444', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76f35ff1cd9
+Emails sent: 22
+{'Email': 'mi039973@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Khả Mi', 'Lớp': '7A4', 'MSHS': 'VS039973', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd76ffcf06695
+Emails sent: 23
+{'Email': 'hoa060372@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Thị Hoa', 'Lớp': '10A2', 'MSHS': 'VS060372', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7708c7d2c67
+Emails sent: 24
+{'Email': 'ha037732@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Khánh Hà', 'Lớp': '8B7', 'MSHS': 'VS037732', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7715c925a95
+Emails sent: 25
+{'Email': 'vy031134@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ngọc Phương Vy', 'Lớp': '8A7', 'MSHS': 'VS031134', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7721202c008
+Emails sent: 26
+{'Email': 'aalyxahoya@gmail.com', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Linh Ngân', 'Lớp': '10A1', 'MSHS': 'VS026862', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd772d19c26a4
+Emails sent: 27
+{'Email': 'binh115626@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Như An Bình', 'Lớp': '7A5', 'MSHS': 'VS115626', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7736c95df9f
+Emails sent: 28
+{'Email': 'minh085802@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Minh Minh', 'Lớp': '8B7', 'MSHS': 'VS085802', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77403811019
+Emails sent: 29
+{'Email': 'my030917@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hoàng Ngọc Mỹ', 'Lớp': '8A9', 'MSHS': 'VS030917', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd774bda72571
+Emails sent: 30
+{'Email': 'nhien063736@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn An Nhiẻn', 'Lớp': '10A1', 'MSHS': 'VS063736', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}       
+Email sent successfully! Message ID: 192bd7755dced2b1
+Emails sent: 31
+{'Email': 'tien030933@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Bảo Tiên', 'Lớp': '11A4', 'MSHS': 'VS030933', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd7760de57a1f
+Emails sent: 32
+{'Email': 'dan030698@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Phạm Linh Đan', 'Lớp': '9A3', 'MSHS': 'VS030698', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd776b40b8bde
+Emails sent: 33
+{'Email': 'tien031222@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Sử Ngọc Tiến', 'Lớp': '8B5', 'MSHS': 'VS031222', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7775be280d8
+Emails sent: 34
+{'Email': 'nhu033633@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ngọc Tuyết Như', 'Lớp': '8A9', 'MSHS': 'VS033633', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7781b80dae1
+Emails sent: 35
+{'Email': 'thu046251@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Quỳnh Anh Thư', 'Lớp': '9A4', 'MSHS': 'VS046251', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}     
+Email sent successfully! Message ID: 192bd778dbc96d44
+Emails sent: 36
+{'Email': 'nghi111736@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Đoàn Gia Nghi', 'Lớp': '8A9', 'MSHS': 'VS111736', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7798b3be1f6
+Emails sent: 37
+{'Email': 'khoi040549@stu.vinschoolo.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Minh Khôi', 'Lớp': '7A2', 'MSHS': 'VS040549', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77a8f4f6a89
+Emails sent: 38
+{'Email': 'van086977@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Mỹ Vân', 'Lớp': '8A2', 'MSHS': 'VS086977', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77b3cd4e55d
+Emails sent: 39
+{'Email': 'kydananh0774@gmail.com', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hồ Kỳ Đan', 'Lớp': '12B1', 'MSHS': 'VS028637', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd77bfaf46389
+Emails sent: 40
+{'Email': 'duong030932@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Thái Dương', 'Lớp': '9A1', 'MSHS': 'VS030932', 'Hạng vé': 'Nhị (9-12, KHÔNG concert)'}   
+Email sent successfully! Message ID: 192bd77c9dd3592f
+Emails sent: 41
+{'Email': 'anh037037@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ngọc Quỳnh Anh', 'Lớp': '7A3', 'MSHS': 'VS037037', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77d5b4e7b72
+Emails sent: 42
+{'Email': 'chi039447@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Nguyễn Quỳnh Chi', 'Lớp': '7A1', 'MSHS': 'VS039447', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77de09a1308
+Emails sent: 43
+{'Email': 'sa031353@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Cát Linh Sa', 'Lớp': '8A2', 'MSHS': 'VS031353', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77e8fdfe3ec
+Emails sent: 44
+{'Email': 'nghi032027@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trang Nghi', 'Lớp': '8B6', 'MSHS': 'VS032027', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd77f68a79818
+Emails sent: 45
+{'Email': 'huy056403@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Mai Gia Huy', 'Lớp': '9A4', 'MSHS': 'VS056403', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7802a757af0
+Emails sent: 46
+{'Email': 'tan046735@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Võ Minh Tấn', 'Lớp': '7A1', 'MSHS': 'VS046735', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd780ee99146a
+Emails sent: 47
+{'Email': 'bao055850@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Chung Quốc Bảo', 'Lớp': '9A3', 'MSHS': 'VS055850', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7819d87c095
+Emails sent: 48
+{'Email': 'giang0428662stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Hương Giang', 'Lớp': '7A3', 'MSHS': 'VS042866', 'Hạng vé': 'Nguyệt (6-7-8)'}
+An error orcurred in sending: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Invalid To header". Details: "[{'message': 'Invalid To header', 'domain': 'global', 'reason': 'invalidArgument'}]">
+{'Email': 'phuong0504543@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ngọc Minh Phương', 'Lớp': '11A1', 'MSHS': 'VS054543', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd782f7c30eda
+Emails sent: 49
+{'Email': 'ngoc030718@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Thanh Bảo Ngọc', 'Lớp': '7A3', 'MSHS': 'VS030718', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7839defe74b
+Emails sent: 50
+{'Email': 'tien056834@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Hoàng Kim Tiên', 'Lớp': '11A4', 'MSHS': 'VS056834', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}  
+Email sent successfully! Message ID: 192bd7844ff156aa
+Emails sent: 51
+{'Email': 'kelv08102008@gmail.com', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Phú Bình', 'Lớp': '11A5', 'MSHS': 'VS047049', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd784e7821eec
+Emails sent: 52
+{'Email': 'ngoc087974@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hồ Bảo Ngọc', 'Lớp': '7A1', 'MSHS': 'VS087975', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd785b28dbe16
+Emails sent: 53
+{'Email': 'hung091595@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Dương Gia Hưng', 'Lớp': '7A1', 'MSHS': 'VS091595', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7864bcc47e7
+Emails sent: 54
+{'Email': 'my043166@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Ngọc Khánh My', 'Lớp': '7A4', 'MSHS': 'VS043166', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd786f14bbf15
+Emails sent: 55
+{'Email': 'thu046015@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Khánh Thư', 'Lớp': '7A1', 'MSHS': 'VS046015', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd787b9ec54b3
+Emails sent: 56
+{'Email': 'phuong087632@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Dương Ngọc Minh Phương', 'Lớp': '7A4', 'MSHS': 'VS087632', 'Hạng vé': 'Nguyệt (6-7-8)'}        
+Email sent successfully! Message ID: 192bd78861ef1f76
+Emails sent: 57
+{'Email': 'loi031670@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Kim Lợi', 'Lớp': '11A4', 'MSHS': 'VS031670', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7890ea61a24
+Emails sent: 58
+{'Email': 'anh053660@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Đình Thoại Anh ', 'Lớp': '7A1', 'MSHS': 'VS053660', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd789ab2307c2
+Emails sent: 59
+{'Email': 'anh046552@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Tâm Anh', 'Lớp': '7A4', 'MSHS': 'VS046552', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78a73fc3e4e
+Emails sent: 60
+{'Email': 'anh046552@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'TRẦN TRÂM ANH', 'Lớp': '7A4', 'MSHS': 'VS046551', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78b075f3e46
+Emails sent: 61
+{'Email': 'huy064052@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phù Đại Khang Huy', 'Lớp': '7A2', 'MSHS': 'VS064052', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78bee72d569
+Emails sent: 62
+{'Email': 'minh043915@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Ngọc Phương Minh', 'Lớp': '6A5', 'MSHS': 'VS043915', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78c967a1d73
+Emails sent: 63
+{'Email': 'bao055076@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Gia Bảo', 'Lớp': '7A2', 'MSHS': 'VS055076', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78d27e4ba5d
+Emails sent: 64
+{'Email': 'hung044138@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'VŨ TIẾN HƯNG', 'Lớp': '11A5', 'MSHS': 'VS044138', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd78dfc44fb22
+Emails sent: 65
+{'Email': 'ngoc090752@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Cao Minh Ngọc', 'Lớp': '11A4', 'MSHS': 'VS090752', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd78e81f33199
+Emails sent: 66
+{'Email': 'linh054754@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Vy Linh', 'Lớp': '6A5', 'MSHS': 'VS054754', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd78f77d6110b
+Emails sent: 67
+{'Email': 'khoa033946@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Thanh Khoa', 'Lớp': '11A5', 'MSHS': 'VS033946', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}      
+Email sent successfully! Message ID: 192bd79038364007
+Emails sent: 68
+{'Email': 'uy054125@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Đặng Kiên Uy', 'Lớp': '11A4', 'MSHS': 'VS054125', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd790fed44f5c
+Emails sent: 69
+{'Email': 'nhu044163@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Đinh Tâm Như', 'Lớp': '11A5', 'MSHS': 'VS044163', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd791b4bd9036
+Emails sent: 70
+{'Email': 'van054696@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Thanh Vân', 'Lớp': '7A4', 'MSHS': 'VS054696', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd79276177521
+Emails sent: 71
+{'Email': 'mai034809@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hoàng Chi Mai', 'Lớp': '10A7', 'MSHS': 'VS034809', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7932de9b7dc
+Emails sent: 72
+{'Email': 'van046572@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Trần Kiến Văn', 'Lớp': '11A5', 'MSHS': 'VS046572', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd793fdfa627e
+Emails sent: 73
+{'Email': 'anh030709@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Vương Minh Anh', 'Lớp': '11A1', 'MSHS': 'VS030709', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd79493f09d63
+Emails sent: 74
+{'Email': 'long045605@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Tran Khai Long', 'Lớp': '7A1', 'MSHS': 'VS045605', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd79543e31637
+Emails sent: 75
+{'Email': 'phuc092074@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Minh Phúc', 'Lớp': '9B2', 'MSHS': 'VS092074', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd79621a13ad0
+Emails sent: 76
+{'Email': 'nghi046887@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Hoàng Gia Nghi', 'Lớp': '10A7', 'MSHS': 'VS046887', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}  
+Email sent successfully! Message ID: 192bd79704cc9b95
+Emails sent: 77
+{'Email': 'le031764@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Ngô Nguyễn Pha Lê', 'Lớp': '10A7', 'MSHS': 'VS031764', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd797c94ea57e
+Emails sent: 78
+{'Email': 'nhat054259@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Phạm Minh Nhật', 'Lớp': '7A3', 'MSHS': 'VS054259', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd79884a58faf
+Emails sent: 79
+{'Email': 'N/A', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Dũng', 'Lớp': '7A1', 'MSHS': 'N/A', 'Hạng vé': 'Nguyệt (6-7-8)'}
+An error orcurred in sending: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Invalid To header". Details: "[{'message': 'Invalid To header', 'domain': 'global', 'reason': 'invalidArgument'}]">
+{'Email': 'kim087910@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'NGUYEN NGOC VINH KIM', 'Lớp': '6A5', 'MSHS': 'VS087910', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd79a1d347c88
+Emails sent: 80
+{'Email': 'han077362@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Dương Gia Hân', 'Lớp': '9B2', 'MSHS': 'VS077362', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd79adffb6706
+Emails sent: 81
+{'Email': 'nghi031430@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Đinh Bảo Nghi', 'Lớp': '9B2', 'MSHS': 'VS031430', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd79b8209f975
+Emails sent: 82
+{'Email': 'antranvt10@gmail.com', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Thái An', 'Lớp': '9B2', 'MSHS': 'VS036997', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd79c5ffd3a6c
+Emails sent: 83
+{'Email': 'N/A', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Thị Ngọc Thắng', 'Lớp': '7A2', 'MSHS': 'N/A', 'Hạng vé': 'Nguyệt (6-7-8)'}
+An error orcurred in sending: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Invalid To header". Details: "[{'message': 'Invalid To header', 'domain': 'global', 'reason': 'invalidArgument'}]">
+{'Email': 'N/A', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Đình Nhân', 'Lớp': '7A1', 'MSHS': 'N/A', 'Hạng vé': 'Nguyệt (6-7-8)'}
+An error orcurred in sending: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Invalid To header". Details: "[{'message': 'Invalid To header', 'domain': 'global', 'reason': 'invalidArgument'}]">
+{'Email': 'minh036419@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lương Quốc Hiển Minh', 'Lớp': '11B4', 'MSHS': 'VS036419', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}   
+Email sent successfully! Message ID: 192bd79e55eb5c58
+Emails sent: 84
+{'Email': 'anh044298@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Hồng Anh', 'Lớp': '9B2', 'MSHS': 'VS044298', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd79f3cd779ee
+Emails sent: 85
+{'Email': 'chi032687@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Nguyễn Bảo Chi', 'Lớp': '6A4', 'MSHS': 'VS032687', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd79fff147bd1
+Emails sent: 86
+{'Email': 'nghi042948@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Quách Phương Nghi', 'Lớp': '11A6', 'MSHS': 'VS042948', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}      
+Email sent successfully! Message ID: 192bd7a08e667b48
+Emails sent: 87
+{'Email': 'ha054006@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Vũ Thanh Hà', 'Lớp': '6A4', 'MSHS': 'VS054006', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a1471c3fe0
+Emails sent: 88
+{'Email': 'van046164@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Linh Vân', 'Lớp': '11A6', 'MSHS': 'VS046154', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+Emails sent: 86
+{'Email': 'nghi042948@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Quách Phương Nghi', 'Lớp': '11A6', 'MSHS': 'VS042948', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}      
+Email sent successfully! Message ID: 192bd7a08e667b48
+Emails sent: 87
+{'Email': 'ha054006@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Vũ Thanh Hà', 'Lớp': '6A4', 'MSHS': 'VS054006', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a1471c3fe0
+Emails sent: 88
+{'Email': 'van046164@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Linh Vân', 'Lớp': '11A6', 'MSHS': 'VS046154', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+{'Email': 'ha054006@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Vũ Thanh Hà', 'Lớp': '6A4', 'MSHS': 'VS054006', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a1471c3fe0
+Emails sent: 88
+{'Email': 'van046164@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Linh Vân', 'Lớp': '11A6', 'MSHS': 'VS046154', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+Emails sent: 88
+{'Email': 'van046164@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Linh Vân', 'Lớp': '11A6', 'MSHS': 'VS046154', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+{'Email': 'van046164@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Linh Vân', 'Lớp': '11A6', 'MSHS': 'VS046154', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}    
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+Email sent successfully! Message ID: 192bd7a25375e97c
+Emails sent: 89
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+{'Email': 'an031694@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Vũ Hoài An', 'Lớp': '6A4', 'MSHS': 'VS031694', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a306ecdac9
+Email sent successfully! Message ID: 192bd7a306ecdac9
+Emails sent: 90
+{'Email': 'nhi042961@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Quách Đông Nhi', 'Lớp': '7A8', 'MSHS': 'VS042961', 'Hạng vé': 'Nguyệt (6-7-8)'}
+Email sent successfully! Message ID: 192bd7a3aac15999
+Emails sent: 91
+{'Email': 'linh034881@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Trần Hoàng Linh', 'Lớp': '11B2', 'MSHS': 'VS034881', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd7a44c987cc8
+Emails sent: 92
+{'Email': 'hong043115@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Võ Lê Minh Hồng', 'Lớp': '10A4', 'MSHS': 'VS043115', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}        
+Email sent successfully! Message ID: 192bd7a4f3dfb743
+Emails sent: 93
+{'Email': 'dat031416@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Nguyễn Trần Bá Đạt', 'Lớp': '10A4', 'MSHS': 'VS031416', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}      
+Email sent successfully! Message ID: 192bd7a5afd6aa3b
+Emails sent: 94
+{'Email': 'du031191@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Hoàng Nhật Du', 'Lớp': '10A4', 'MSHS': 'VS031191', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}
+Email sent successfully! Message ID: 192bd7a653e98cef
+Emails sent: 95
+{'Email': 'lam042597@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Lê Hoàng Thùy Lâm', 'Lớp': '10B2', 'MSHS': 'VS042597', 'Hạng vé': 'Bầu (9-12, CÓ concert)'}       
+Email sent successfully! Message ID: 192bd7a6f28f2e02
+Emails sent: 96
+{'Email': 'phat032314@stu.vinschool.edu.vn', 'Subject': 'VTEAM | XÁC NHẬN VÉ SILENCIO VI', 'Tên': 'Huỳnh Nguyễn Gia Phát', 'Lớp': '10B3', 'MSHS': 'VS032314', 'Hạng vé': 'bầu (9-12, CÓ concert)'}  
+Email sent successfully! Message ID: 192bd7a78d816cd4
+Emails sent: 97
+All Done!
